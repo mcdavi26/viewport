@@ -232,4 +232,6 @@ color: var(--white);
 
 /* ---------- LARGE SCREEN STYLES ---------- /
 / --------------- BEGIN LARGE SCREEN SIZES --------------- */
-@media screen and (min-width: 1024px) and (max-width: 1439px)
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+    
+}
